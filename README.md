@@ -1,13 +1,11 @@
 <img src="https://pbs.twimg.com/profile_banners/1567213070392385538/1689769269/1500x500" />
 
-<h1 align="center" color="#0066ff">Hi 👋, I'm AhmadYassin</h1>
+<h1 align="center">Hi 👋, I'm AhmadYassin</h1>
 <h3 align="center">A Web designer and Discord bots programmer</h3>
-
-- I'm working on a Discord bot **FunBot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ahmad8yassin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ahmad8yassin" height="30" width="40" style="filter: invert(22%) sepia(58%) saturate(4539%) hue-rotate(213deg) brightness(105%) contrast(103%);" /></a>
+<a href="https://twitter.com/@ahmad8yassin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ahmad8yassin" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmadyassin700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadyassin843" height="30" width="40" /></a>
 </p>
 
