@@ -1,6 +1,6 @@
 <img src="https://pbs.twimg.com/profile_banners/1567213070392385538/1689769269/1500x500" />
 
-<h1 align="center" color="fff">Hi 👋, I'm AhmadYassin</h1>
+<h1 align="center" color="#0066ff">Hi 👋, I'm AhmadYassin</h1>
 <h3 align="center">A Web designer and Discord bots programmer</h3>
 
 - I'm working on a Discord bot **FunBot**
