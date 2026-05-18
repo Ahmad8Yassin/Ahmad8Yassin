@@ -1,7 +1,7 @@
 <img src="https://pbs.twimg.com/profile_banners/1567213070392385538/1689845281/1500x500" />
 
 <h1 align="center">Hi 👋, I'm AhmadYassin</h1>
-<h3 align="center">A Front-End and UI/UX Desinger</h3>
+<h3 align="center">A Front-End Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="">
